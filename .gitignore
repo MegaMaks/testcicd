@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Development environment settings directories
+.idea
+.project
+/openhab-cloud.iml
+
+# currently used config.json
+/config.json
